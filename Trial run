@@ -1,0 +1,14 @@
+import random
+import sys
+import os
+
+print("Hello World")
+
+name = "Tyler"
+
+#5 main data types
+#numbers, strings, lists, tuples, dictionaries
+
+#arithmetic operators: +, -, *, %, **(exponet), //(floor dividing)
+
+print("1 + 2 - 3 * 2 = ", 1+2-3*2)
